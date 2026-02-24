@@ -190,7 +190,6 @@
 			</div>
 			<div class=" self-center">{$i18n.t('Redemption Code')}</div>
 		</a>
-
 	</div>
 
 	<div class="flex-1 mt-1 lg:mt-0 px-[16px] lg:pr-[16px] lg:pl-0 overflow-y-scroll">
